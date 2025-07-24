@@ -3,12 +3,12 @@ Game-Vault is an e-commerce website built with PHP, designed as a sleek and mode
 
 <p align="center">
   <img src="imgs/3.png" alt="Homepage" width="600"/><br>
-  <em>Homepage</em>
+  <em>Login page</em>
 </p>
 
 <p align="center">
   <img src="imgs/1.png" alt="User Dashboard" width="600"/><br>
-  <em>User Dashboard</em>
+  <em>Homepage</em>
 </p>
 
 <p align="center">
